@@ -1,0 +1,5 @@
+package com.sda.spring.core.config.beans;
+
+public class MyBean {
+
+}
